@@ -1,0 +1,12 @@
+body {padding-top: 50px;}
+.well{height: 220px;}
+img {
+  -moz-border-radius: 100px; 
+  -webkit-border-radius: 100px; 
+  border-radius: 100px;
+  border: 4px solid #FCB614;
+  height: 86px;
+  width: 86px;
+}
+.head {text-align: center;}
+.alert{height:100px;}
