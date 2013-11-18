@@ -1,7 +1,9 @@
 raise your hand
 ================
 
-help!
+first come, first server
+
+![help](https://raw.github.com/mjhea0/raise-your-hand/master/help.png)
 
 ## todo
 
