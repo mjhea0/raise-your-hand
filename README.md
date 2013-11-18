@@ -1,7 +1,7 @@
 raise your hand
 ================
 
-first come, first server
+first come, first serve
 
 ![help](https://raw.github.com/mjhea0/raise-your-hand/master/help.png)
 
